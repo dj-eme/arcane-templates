@@ -1,0 +1,1 @@
+[More information](https://docs.shokoanime.com/getting-started/installing-shoko-server)

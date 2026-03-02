@@ -12,8 +12,8 @@
             "description": "Jellyfin Server docker-compose and Seerr docker-compose",
             "version": "1.0.0",
             "author": "CER",
-            "compose_url": "https://raw.githubusercontent.com/dj-eme/arcane-templates/main/jellyfin-seerr/compose.yml",
-            "env_url": "https://raw.githubusercontent.com/dj-eme/arcane-templates/main/jellyfin-seerr/.env.example",
+            "compose_url": "https://raw.githubusercontent.com/dj-eme/arcane-templates/refs/heads/main/main/jellyfin-seerr/compose.yml",
+            "env_url": "https://raw.githubusercontent.com/dj-eme/arcane-templates/refs/heads/main/main/jellyfin-seerr/.env.example",
             "documentation_url": "https://github.com/dj-eme/arcane-templates/tree/main/jellyfin-seerr",
             "tags": ["internal", "webapp", "media"]
         },
@@ -23,8 +23,8 @@
             "description": "Anime management software",
             "version": "1.0.0",
             "author": "Shoko",
-            "compose_url": "https://raw.githubusercontent.com/dj-eme/arcane-templates/main/shoko/compose.yml",
-            "env_url": "https://raw.githubusercontent.com/dj-eme/arcane-templates/main/shoko/.env.example",
+            "compose_url": "https://raw.githubusercontent.com/dj-eme/arcane-templates/refs/heads/main/main/shoko/compose.yml",
+            "env_url": "https://raw.githubusercontent.com/dj-eme/arcane-templates/refs/heads/main/main/shoko/.env.example",
             "documentation_url": "https://github.com/dj-eme/arcane-templates/tree/main/shoko",
             "tags": ["media"]
         }
