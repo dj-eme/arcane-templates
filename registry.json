@@ -22,10 +22,11 @@
             "name": "Shoko",
             "description": "Anime management software",
             "version": "1.0.0",
-            "author": "CER",
+            "author": "Shoko",
             "compose_url": "https://raw.githubusercontent.com/dj-eme/arcane-templates/main/shoko/compose.yml",
             "env_url": "https://raw.githubusercontent.com/dj-eme/arcane-templates/main/shoko/.env.example",
-            "documentation_url": "https://github.com/dj-eme/arcane-templates/tree/main/shoko"
+            "documentation_url": "https://github.com/dj-eme/arcane-templates/tree/main/shoko",
+            "tags": ["media"]
         }
     ]
 }
